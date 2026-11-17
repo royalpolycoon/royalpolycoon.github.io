@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://royalpolycoon.github.io/sitemap.xml
